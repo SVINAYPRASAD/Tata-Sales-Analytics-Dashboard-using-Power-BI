@@ -1,0 +1,21 @@
+TATA SALES ANALYTICS DASHBOARD – BUSINESS INSIGHTS
+
+1. Sales performance showed noticeable variation across different product categories, indicating that certain categories contributed significantly more to overall revenue generation.
+
+2. Customer purchasing behavior analysis revealed patterns in buying trends, helping identify frequently purchased products and high-performing sales segments.
+
+3. Revenue trend analysis highlighted periods of increased sales activity, which can support better business planning and strategic decision-making.
+
+4. KPI tracking enabled clear monitoring of important business metrics such as total sales, revenue growth, and category-wise performance.
+
+5. Interactive filters and slicers improved dashboard usability by allowing users to dynamically explore sales data across multiple dimensions.
+
+6. Data visualization techniques helped simplify complex datasets into meaningful insights through charts, graphs, and KPI cards.
+
+7. The dashboard improved reporting efficiency by presenting business data in a structured and easy-to-understand format for decision-makers.
+
+8. Sales distribution analysis provided better visibility into overall business performance and customer engagement trends.
+
+9. The project demonstrated the use of business intelligence tools to transform raw sales data into actionable insights.
+
+10. This dashboard can support organizations in identifying growth opportunities, improving sales strategies, and enhancing data-driven decision-making processes.
