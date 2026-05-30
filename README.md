@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-[Quantity and Revenue by Country](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Quantity_and_Revenue_by_Country.png)
+[Quantity and Revenue by Country](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Quantity%20and%20Revenue%20by%20Country.png)
 
 [Quantity by Country (Map)](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Quantity_by_Country.png)
 
