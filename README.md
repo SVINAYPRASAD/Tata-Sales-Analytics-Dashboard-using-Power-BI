@@ -8,11 +8,11 @@
 
 [Quantity and Revenue by Country](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Quantity%20and%20Revenue%20by%20Country.png)
 
-[Quantity by Country (Map)](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Quantity_by_Country.png)
+[Quantity by Country (Map)](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Quantity%20by%20Country.png)
 
-[Revenue by Customer ID](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Revenue_by_Customer_ID.png)
+[Revenue by Customer ID](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Revenue%20by%20Customer%20ID.png)
 
-[Revenue by Month](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Revenue_by_Month.png)
+[Revenue by Month](Tata%20Sales%20Analytics%20Dashboard/sales_analysis/Revenue%20by%20Month.png)
 
 ---
 
