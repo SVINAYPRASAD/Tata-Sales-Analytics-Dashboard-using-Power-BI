@@ -6,13 +6,13 @@
 
 ## 📸 Dashboard Preview
 
-[Quantity and Revenue by Country](Tata-Sales-Analytics-Dashboard/sales_analysis/Quantity_and_Revenue_by_Country.png)
+[Quantity and Revenue by Country](Tata Sales Analytics Dashboard/sales_analysis/Quantity_and_Revenue_by_Country.png)
 
-[Quantity by Country (Map)](Tata-Sales-Analytics-Dashboard/sales_analysis/Quantity_by_Country.png)
+[Quantity by Country (Map)](Tata Sales Analytics Dashboard/sales_analysis/Quantity_by_Country.png)
 
-[Revenue by Customer ID](Tata-Sales-Analytics-Dashboard/sales_analysis/Revenue_by_Customer_ID.png)
+[Revenue by Customer ID](Tata Sales Analytics Dashboard/sales_analysis/Revenue_by_Customer_ID.png)
 
-[Revenue by Month](Tata-Sales-Analytics-Dashboard/sales_analysis/Revenue_by_Month.png)
+[Revenue by Month](Tata Sales Analytics Dashboard/sales_analysis/Revenue_by_Month.png)
 
 ---
 
